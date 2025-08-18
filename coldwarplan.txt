@@ -20,26 +20,7 @@
         "time": 1755500802806
       }
     },
-    {
-      "id": "u_7cpinvfmegxior5",
-      "title": "123",
-      "en": "123",
-      "years": "123",
-      "start": 123,
-      "bloc": "west",
-      "country": "123",
-      "desc": "123",
-      "detail": {
-        "bg": "123",
-        "story": "123",
-        "people": "123",
-        "outcome": "123"
-      },
-      "user": {
-        "author": "123",
-        "time": 1755510320849
-      }
-    },
+   
     {
       "id": "u_1ifkxddmegyzt82",
       "title": "33",
