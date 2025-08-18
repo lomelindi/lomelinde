@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "u_jrun2yamegruol2",
+      "title": "1",
+      "en": "1",
+      "years": "1",
+      "start": 1,
+      "bloc": "east",
+      "country": "1",
+      "desc": "1",
+      "detail": {
+        "bg": "1",
+        "story": "1",
+        "people": "1",
+        "outcome": "1"
+      },
+      "user": {
+        "author": "22222",
+        "time": 1755500802806
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "action": "del",
+      "author": "呃呃呃",
+      "time": 1755500828667,
+      "summary": "删除事件《1》（1 · 1）",
+      "itemId": "u_6s5y4ggmegrp3tr"
+    },
+    {
+      "action": "add",
+      "author": "22222",
+      "time": 1755500802806,
+      "summary": "新增事件《1》（1 · 1，阵营：东方阵营）",
+      "itemId": "u_jrun2yamegruol2"
+    }
+  ],
+  "lastUpdate": 1755510307092,
+  "version": 1,
+  "meta": {
+    "generator": "冷战奇葩计划·分阵营时间轴",
+    "contributors": [
+      "呃呃呃",
+      "22222"
+    ],
+    "lastContributor": "呃呃呃"
+  }
+}
