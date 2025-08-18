@@ -19,9 +19,36 @@
         "author": "22222",
         "time": 1755500802806
       }
+    },
+    {
+      "id": "u_7cpinvfmegxior5",
+      "title": "123",
+      "en": "123",
+      "years": "123",
+      "start": 123,
+      "bloc": "west",
+      "country": "123",
+      "desc": "123",
+      "detail": {
+        "bg": "123",
+        "story": "123",
+        "people": "123",
+        "outcome": "123"
+      },
+      "user": {
+        "author": "123",
+        "time": 1755510320849
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "123",
+      "time": 1755510320850,
+      "summary": "新增事件《123》（123 · 123，阵营：西方阵营）",
+      "itemId": "u_7cpinvfmegxior5"
+    },
     {
       "action": "del",
       "author": "呃呃呃",
@@ -37,14 +64,15 @@
       "itemId": "u_jrun2yamegruol2"
     }
   ],
-  "lastUpdate": 1755510307092,
-  "version": 1,
+  "lastUpdate": 1755510321852,
+  "version": 2,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "123",
       "呃呃呃",
       "22222"
     ],
-    "lastContributor": "呃呃呃"
+    "lastContributor": "123"
   }
 }
