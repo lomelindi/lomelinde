@@ -61,26 +61,6 @@
       }
     },
     {
-      "id": "u_hyrknk7megyrilf",
-      "title": "1",
-      "en": "1",
-      "years": "1",
-      "start": 1,
-      "bloc": "west",
-      "country": "1",
-      "desc": "1",
-      "detail": {
-        "bg": "1",
-        "story": "1",
-        "people": "1",
-        "outcome": "18ï¼20æµè¯"
-      },
-      "user": {
-        "author": "tgtg",
-        "time": 1755512412387
-      }
-    },
-    {
       "id": "u_vt0bisimegzx0d2",
       "title": "å·åå·å",
       "en": "å·åå·å",
@@ -102,6 +82,13 @@
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tg1号",
+      "time": 1755514409899,
+      "summary": "删除事件《1》（1 · 1）",
+      "itemId": "u_hyrknk7megyrilf"
+    },
     {
       "action": "add",
       "author": "å¿å¿",
@@ -222,10 +209,11 @@
       "itemId": "u_jrun2yamegruol2"
     }
   ],
-  "lastUpdate": 1755514400783,
+  "lastUpdate": 1755514410403,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg1号",
       "å¿å¿",
       "1",
       "3344",
@@ -242,6 +230,6 @@
       "ÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ",
       "22222"
     ],
-    "lastContributor": "å¿å¿"
+    "lastContributor": "tg1号"
   }
 }
