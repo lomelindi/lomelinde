@@ -43,6 +43,13 @@
   ],
   "changelog": [
     {
+      "action": "del",
+      "author": "tgtg",
+      "time": 1755510383494,
+      "summary": "删除事件《123》（123 · 123）",
+      "itemId": "u_7cpinvfmegxior5"
+    },
+    {
       "action": "add",
       "author": "123",
       "time": 1755510320850,
@@ -57,6 +64,13 @@
       "itemId": "u_6s5y4ggmegrp3tr"
     },
     {
+      "action": "del",
+      "author": "ååå",
+      "time": 1755500828667,
+      "summary": "å é¤äºä»¶ã1ãï¼1 Â· 1ï¼",
+      "itemId": "u_6s5y4ggmegrp3tr"
+    },
+    {
       "action": "add",
       "author": "22222",
       "time": 1755500802806,
@@ -64,15 +78,17 @@
       "itemId": "u_jrun2yamegruol2"
     }
   ],
-  "lastUpdate": 1755510321852,
-  "version": 2,
+  "lastUpdate": 1755511111893,
+  "version": 3,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tgtg",
       "123",
       "呃呃呃",
+      "ååå",
       "22222"
     ],
-    "lastContributor": "123"
+    "lastContributor": "tgtg"
   }
 }
