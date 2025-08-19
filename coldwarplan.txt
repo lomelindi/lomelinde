@@ -19,9 +19,36 @@
         "author": "谭钢",
         "time": 1755573163568
       }
+    },
+    {
+      "id": "u_6sorf5wmehzt0tj",
+      "title": "嗷呜嗷呜",
+      "en": "啊",
+      "years": "1999",
+      "start": 4,
+      "bloc": "west",
+      "country": "美国",
+      "desc": "123",
+      "detail": {
+        "bg": "",
+        "story": "",
+        "people": "",
+        "outcome": ""
+      },
+      "user": {
+        "author": "嘿嘿",
+        "time": 1755574628455
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "嘿嘿",
+      "time": 1755574628455,
+      "summary": "新增事件《嗷呜嗷呜》（1999 · 美国，阵营：西方阵营）",
+      "itemId": "u_6sorf5wmehzt0tj"
+    },
     {
       "action": "add",
       "author": "谭钢",
@@ -86,10 +113,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755573164581,
+  "lastUpdate": 1755574629459,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "嘿嘿",
       "谭钢",
       "tg5号",
       "tg4号",
@@ -99,6 +127,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "谭钢"
+    "lastContributor": "嘿嘿"
   }
 }
