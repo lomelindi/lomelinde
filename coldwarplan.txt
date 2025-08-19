@@ -1,6 +1,34 @@
 {
-  "items": [],
+  "items": [
+    {
+      "id": "u_cobus44mehyxmi8",
+      "title": "8号球计划",
+      "en": "Project No.8 Ball",
+      "years": "1999-2010",
+      "start": 1999,
+      "bloc": "west",
+      "country": "特兰狄",
+      "desc": "神秘的生化武器计划",
+      "detail": {
+        "bg": "1",
+        "story": "2",
+        "people": "3",
+        "outcome": "4"
+      },
+      "user": {
+        "author": "谭钢",
+        "time": 1755573163568
+      }
+    }
+  ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "谭钢",
+      "time": 1755573163568,
+      "summary": "新增事件《8号球计划》（1999-2010 · 特兰狄，阵营：西方阵营）",
+      "itemId": "u_cobus44mehyxmi8"
+    },
     {
       "action": "del",
       "author": "tg5号",
@@ -58,10 +86,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755573080787,
+  "lastUpdate": 1755573164581,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "谭钢",
       "tg5号",
       "tg4号",
       "tg3号",
@@ -70,6 +99,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "tg5号"
+    "lastContributor": "谭钢"
   }
 }
