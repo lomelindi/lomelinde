@@ -19,9 +19,36 @@
         "author": "Shunlei",
         "time": 1755587686975
       }
+    },
+    {
+      "id": "u_ce82276mei7yxwx",
+      "title": "核动力战略轰炸机",
+      "en": "",
+      "years": "1951~1961",
+      "start": 1951,
+      "bloc": "both",
+      "country": "美苏",
+      "desc": "核反应堆供能的战略轰炸机",
+      "detail": {
+        "bg": "在核投放载具只有战略轰炸机的情况下，一架数周不落地的核动力轰炸机充满吸引力",
+        "story": "1951到1957美国测试后放弃。1955到1961苏联进行试验测试。",
+        "people": "通用电气、洛克希德、原子能委员会、苏联部长会议、图波列夫设计局",
+        "outcome": "因为无法解决反应堆小型化与安全性，同时弹道导弹的发展使得这个方案成本过高且不便。但很浪漫，成为多种影视作品的素材。"
+      },
+      "user": {
+        "author": "林有德",
+        "time": 1755588341553
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "林有德",
+      "time": 1755588341553,
+      "summary": "新增事件《核动力战略轰炸机》（1951~1961 · 美苏，阵营：双边 / 国际）",
+      "itemId": "u_ce82276mei7yxwx"
+    },
     {
       "action": "add",
       "author": "Shunlei",
@@ -191,10 +218,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755587688844,
+  "lastUpdate": 1755588343441,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "林有德",
       "Shunlei",
       "0000",
       "王姐",
@@ -215,6 +243,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "Shunlei"
+    "lastContributor": "林有德"
   }
 }
