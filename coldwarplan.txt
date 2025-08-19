@@ -41,26 +41,6 @@
       }
     },
     {
-      "id": "u_dn2zse0mei5qcvf",
-      "title": "8.19",
-      "en": "8.19",
-      "years": "111",
-      "start": 111,
-      "bloc": "west",
-      "country": "11abgufao",
-      "desc": "唉杯具发3562auo",
-      "detail": {
-        "bg": "111111",
-        "story": "111111",
-        "people": "1111abcdefg",
-        "outcome": "花露水花露水花露水"
-      },
-      "user": {
-        "author": "haoran",
-        "time": 1755584581803
-      }
-    },
-    {
       "id": "u_jbn7sjomei62fna",
       "title": "123",
       "en": "12",
@@ -102,6 +82,13 @@
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tgtg",
+      "time": 1755585701820,
+      "summary": "删除事件《8.19》（111 · 11abgufao）",
+      "itemId": "u_dn2zse0mei5qcvf"
+    },
     {
       "action": "add",
       "author": "王姐",
@@ -201,10 +188,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755585467394,
+  "lastUpdate": 1755585702777,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tgtg",
       "王姐",
       "123",
       "haoran",
@@ -218,6 +206,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "王姐"
+    "lastContributor": "tgtg"
   }
 }
