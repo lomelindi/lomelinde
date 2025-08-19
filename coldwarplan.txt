@@ -61,26 +61,6 @@
       }
     },
     {
-      "id": "u_vt0bisimegzx0d2",
-      "title": "Ã¥ÂÂ·Ã¥ÂÂÃ¥ÂÂ·Ã¥ÂÂ",
-      "en": "Ã¥ÂÂ·Ã¥ÂÂÃ¥ÂÂ·Ã¥ÂÂ",
-      "years": "1999",
-      "start": 1999,
-      "bloc": "west",
-      "country": "Ã§Â¾ÂÃ¥ÂÂ½",
-      "desc": "Ã¥ÂÂ¥",
-      "detail": {
-        "bg": "Ã¥ÂÂ¥Ã¥ÂÂ",
-        "story": "Ã¥ÂÂ°Ã¥ÂºÂÃ¦ÂÂ¯Ã¥ÂÂ¥",
-        "people": "Ã¦Â²Â¡Ã¥ÂÂ¥",
-        "outcome": "Ã¥Â¾ÂÃ¥ÂÂ¯Ã¦ÂÂ¶"
-      },
-      "user": {
-        "author": "Ã¥ÂÂ¿Ã¥ÂÂ¿",
-        "time": 1755514348310
-      }
-    },
-    {
       "id": "u_4n38b5hmeh04ppx",
       "title": "666",
       "en": "666",
@@ -143,6 +123,13 @@
   ],
   "changelog": [
     {
+      "action": "del",
+      "author": "tg",
+      "time": 1755572137505,
+      "summary": "删除事件《Ã¥ÂÂ·Ã¥ÂÂÃ¥ÂÂ·Ã¥ÂÂ》（1999 · Ã§Â¾ÂÃ¥ÂÂ½）",
+      "itemId": "u_vt0bisimegzx0d2"
+    },
+    {
       "action": "add",
       "author": "test1",
       "time": 1755571553736,
@@ -150,12 +137,13 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755571554737,
+  "lastUpdate": 1755572138007,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg",
       "test1"
     ],
-    "lastContributor": "test1"
+    "lastContributor": "tg"
   }
 }
