@@ -19,29 +19,16 @@
         "author": "谭钢",
         "time": 1755573163568
       }
-    },
-    {
-      "id": "u_sn0aky2mei69bez",
-      "title": "玄学是如何谋杀斯大林的",
-      "en": "",
-      "years": "1962-1972",
-      "start": 1962,
-      "bloc": "west",
-      "country": "苏联",
-      "desc": "通过佛教的函数计算致使斯大林提前离世",
-      "detail": {
-        "bg": "",
-        "story": "",
-        "people": "",
-        "outcome": ""
-      },
-      "user": {
-        "author": "王姐",
-        "time": 1755585466379
-      }
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "谭钢",
+      "time": 1755585973478,
+      "summary": "删除事件《玄学是如何谋杀斯大林的》（1962-1972 · 苏联）",
+      "itemId": "u_sn0aky2mei69bez"
+    },
     {
       "action": "del",
       "author": "tgtg333",
@@ -162,10 +149,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755585846875,
+  "lastUpdate": 1755585974705,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "谭钢",
       "tgtg333",
       "浩然",
       "tgtg",
@@ -173,7 +161,6 @@
       "123",
       "haoran",
       "嘿嘿",
-      "谭钢",
       "tg5号",
       "tg4号",
       "tg3号",
@@ -182,6 +169,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "tgtg333"
+    "lastContributor": "谭钢"
   }
 }
