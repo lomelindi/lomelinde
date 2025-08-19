@@ -21,26 +21,6 @@
       }
     },
     {
-      "id": "u_4n38b5hmeh04ppx",
-      "title": "666",
-      "en": "666",
-      "years": "6",
-      "start": 6,
-      "bloc": "west",
-      "country": "6",
-      "desc": "6",
-      "detail": {
-        "bg": "6",
-        "story": "6",
-        "people": "6",
-        "outcome": "6"
-      },
-      "user": {
-        "author": "ä½ å¥½ä½ å¥½",
-        "time": 1755514707765
-      }
-    },
-    {
       "id": "u_a2c8yhdmehxz4co",
       "title": "1",
       "en": "2",
@@ -62,6 +42,13 @@
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tg3号",
+      "time": 1755573051290,
+      "summary": "删除事件《666》（6 · 6）",
+      "itemId": "u_4n38b5hmeh04ppx"
+    },
     {
       "action": "del",
       "author": "tg2号",
@@ -98,15 +85,16 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755573042713,
+  "lastUpdate": 1755573051798,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg3号",
       "tg2号",
       "tg1号",
       "tg",
       "test1"
     ],
-    "lastContributor": "tg2号"
+    "lastContributor": "tg3号"
   }
 }
