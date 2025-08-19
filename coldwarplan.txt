@@ -1,27 +1,13 @@
 {
-  "items": [
-    {
-      "id": "u_75htzwymei6m2w7",
-      "title": "测试",
-      "en": "test - final",
-      "years": "0",
-      "start": 0,
-      "bloc": "both",
-      "country": "0",
-      "desc": "00",
-      "detail": {
-        "bg": "",
-        "story": "",
-        "people": "",
-        "outcome": ""
-      },
-      "user": {
-        "author": "测试人员",
-        "time": 1755586061863
-      }
-    }
-  ],
+  "items": [],
   "changelog": [
+    {
+      "action": "del",
+      "author": "final test",
+      "time": 1755586096753,
+      "summary": "删除事件《测试》（0 · 0）",
+      "itemId": "u_75htzwymei6m2w7"
+    },
     {
       "action": "add",
       "author": "测试人员",
@@ -163,10 +149,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755586063594,
+  "lastUpdate": 1755586097573,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "final test",
       "测试人员",
       "谭钢",
       "tgtg333",
@@ -184,6 +171,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "测试人员"
+    "lastContributor": "final test"
   }
 }
