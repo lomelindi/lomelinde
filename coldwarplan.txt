@@ -19,29 +19,16 @@
         "author": "22222",
         "time": 1755500802806
       }
-    },
-    {
-      "id": "u_a2c8yhdmehxz4co",
-      "title": "1",
-      "en": "2",
-      "years": "4",
-      "start": 3,
-      "bloc": "west",
-      "country": "5",
-      "desc": "6",
-      "detail": {
-        "bg": "7",
-        "story": "",
-        "people": "",
-        "outcome": ""
-      },
-      "user": {
-        "author": "test1",
-        "time": 1755571553736
-      }
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tg4号",
+      "time": 1755573059694,
+      "summary": "删除事件《1》（4 · 5）",
+      "itemId": "u_a2c8yhdmehxz4co"
+    },
     {
       "action": "del",
       "author": "tg3号",
@@ -85,16 +72,17 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755573051798,
+  "lastUpdate": 1755573060197,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg4号",
       "tg3号",
       "tg2号",
       "tg1号",
       "tg",
       "test1"
     ],
-    "lastContributor": "tg3号"
+    "lastContributor": "tg4号"
   }
 }
