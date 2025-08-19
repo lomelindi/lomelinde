@@ -21,26 +21,6 @@
       }
     },
     {
-      "id": "u_jbn7sjomei62fna",
-      "title": "123",
-      "en": "12",
-      "years": "12",
-      "start": 1,
-      "bloc": "west",
-      "country": "嗯嗯",
-      "desc": "嗯嗯嗯嗯",
-      "detail": {
-        "bg": "",
-        "story": "",
-        "people": "",
-        "outcome": ""
-      },
-      "user": {
-        "author": "123",
-        "time": 1755585145270
-      }
-    },
-    {
       "id": "u_sn0aky2mei69bez",
       "title": "玄学是如何谋杀斯大林的",
       "en": "",
@@ -62,6 +42,13 @@
     }
   ],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tgtg333",
+      "time": 1755585846053,
+      "summary": "删除事件《123》（12 · 嗯嗯）",
+      "itemId": "u_jbn7sjomei62fna"
+    },
     {
       "action": "del",
       "author": "浩然",
@@ -175,10 +162,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755585817491,
+  "lastUpdate": 1755585846875,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tgtg333",
       "浩然",
       "tgtg",
       "王姐",
@@ -194,6 +182,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "浩然"
+    "lastContributor": "tgtg333"
   }
 }
