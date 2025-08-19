@@ -119,13 +119,43 @@
         "author": "å·åå·å",
         "time": 1755515282439
       }
+    },
+    {
+      "id": "u_a2c8yhdmehxz4co",
+      "title": "1",
+      "en": "2",
+      "years": "4",
+      "start": 3,
+      "bloc": "west",
+      "country": "5",
+      "desc": "6",
+      "detail": {
+        "bg": "7",
+        "story": "",
+        "people": "",
+        "outcome": ""
+      },
+      "user": {
+        "author": "test1",
+        "time": 1755571553736
+      }
     }
   ],
-  "changelog": [],
-  "lastUpdate": 1755571526218,
+  "changelog": [
+    {
+      "action": "add",
+      "author": "test1",
+      "time": 1755571553736,
+      "summary": "新增事件《1》（4 · 5，阵营：西方阵营）",
+      "itemId": "u_a2c8yhdmehxz4co"
+    }
+  ],
+  "lastUpdate": 1755571554737,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
-    "contributors": [],
-    "lastContributor": "unknown"
+    "contributors": [
+      "test1"
+    ],
+    "lastContributor": "test1"
   }
 }
