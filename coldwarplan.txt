@@ -1,6 +1,34 @@
 {
-  "items": [],
+  "items": [
+    {
+      "id": "u_nhhcm8rmei6ppt0",
+      "title": "玄学是如何谋杀斯大林的",
+      "en": "",
+      "years": "1962-1972",
+      "start": 1962,
+      "bloc": "west",
+      "country": "苏联",
+      "desc": "斯大林疑似被八卦阵标记并提前心肌梗塞而死",
+      "detail": {
+        "bg": "",
+        "story": "",
+        "people": "",
+        "outcome": ""
+      },
+      "user": {
+        "author": "王姐",
+        "time": 1755586231524
+      }
+    }
+  ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "王姐",
+      "time": 1755586231524,
+      "summary": "新增事件《玄学是如何谋杀斯大林的》（1962-1972 · 苏联，阵营：西方阵营）",
+      "itemId": "u_nhhcm8rmei6ppt0"
+    },
     {
       "action": "del",
       "author": "final test",
@@ -149,17 +177,17 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755586097573,
+  "lastUpdate": 1755586232977,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "王姐",
       "final test",
       "测试人员",
       "谭钢",
       "tgtg333",
       "浩然",
       "tgtg",
-      "王姐",
       "123",
       "haoran",
       "嘿嘿",
@@ -171,6 +199,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "final test"
+    "lastContributor": "王姐"
   }
 }
