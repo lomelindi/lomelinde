@@ -81,26 +81,6 @@
       }
     },
     {
-      "id": "u_vsykonvmeh0h153",
-      "title": "è¶çº§ä¼å¤§è®¡å",
-      "en": "Big Plan",
-      "years": "123",
-      "start": 1999,
-      "bloc": "west",
-      "country": "123",
-      "desc": "11",
-      "detail": {
-        "bg": "",
-        "story": "",
-        "people": "",
-        "outcome": ""
-      },
-      "user": {
-        "author": "å·åå·å",
-        "time": 1755515282439
-      }
-    },
-    {
       "id": "u_a2c8yhdmehxz4co",
       "title": "1",
       "en": "2",
@@ -125,6 +105,13 @@
     {
       "action": "del",
       "author": "tg",
+      "time": 1755572145645,
+      "summary": "删除事件《è¶çº§ä¼å¤§è®¡å》（123 · 123）",
+      "itemId": "u_vsykonvmeh0h153"
+    },
+    {
+      "action": "del",
+      "author": "tg",
       "time": 1755572137505,
       "summary": "删除事件《Ã¥ÂÂ·Ã¥ÂÂÃ¥ÂÂ·Ã¥ÂÂ》（1999 · Ã§Â¾ÂÃ¥ÂÂ½）",
       "itemId": "u_vt0bisimegzx0d2"
@@ -137,7 +124,7 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755572138007,
+  "lastUpdate": 1755572146150,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
