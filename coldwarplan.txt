@@ -59,9 +59,36 @@
         "author": "haoran",
         "time": 1755584581803
       }
+    },
+    {
+      "id": "u_jbn7sjomei62fna",
+      "title": "123",
+      "en": "12",
+      "years": "12",
+      "start": 1,
+      "bloc": "west",
+      "country": "嗯嗯",
+      "desc": "嗯嗯嗯嗯",
+      "detail": {
+        "bg": "",
+        "story": "",
+        "people": "",
+        "outcome": ""
+      },
+      "user": {
+        "author": "123",
+        "time": 1755585145270
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "123",
+      "time": 1755585145270,
+      "summary": "新增事件《123》（12 · 嗯嗯，阵营：西方阵营）",
+      "itemId": "u_jbn7sjomei62fna"
+    },
     {
       "action": "del",
       "author": "haoran",
@@ -147,10 +174,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755584763782,
+  "lastUpdate": 1755585146579,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "123",
       "haoran",
       "嘿嘿",
       "谭钢",
@@ -162,6 +190,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "haoran"
+    "lastContributor": "123"
   }
 }
