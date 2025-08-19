@@ -79,9 +79,36 @@
         "author": "123",
         "time": 1755585145270
       }
+    },
+    {
+      "id": "u_sn0aky2mei69bez",
+      "title": "玄学是如何谋杀斯大林的",
+      "en": "",
+      "years": "1962-1972",
+      "start": 1962,
+      "bloc": "west",
+      "country": "苏联",
+      "desc": "通过佛教的函数计算致使斯大林提前离世",
+      "detail": {
+        "bg": "",
+        "story": "",
+        "people": "",
+        "outcome": ""
+      },
+      "user": {
+        "author": "王姐",
+        "time": 1755585466379
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "王姐",
+      "time": 1755585466379,
+      "summary": "新增事件《玄学是如何谋杀斯大林的》（1962-1972 · 苏联，阵营：西方阵营）",
+      "itemId": "u_sn0aky2mei69bez"
+    },
     {
       "action": "add",
       "author": "123",
@@ -174,10 +201,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755585146579,
+  "lastUpdate": 1755585467394,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "王姐",
       "123",
       "haoran",
       "嘿嘿",
@@ -190,6 +218,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "123"
+    "lastContributor": "王姐"
   }
 }
