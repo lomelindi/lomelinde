@@ -39,9 +39,36 @@
         "author": "嘿嘿",
         "time": 1755574628455
       }
+    },
+    {
+      "id": "u_dn2zse0mei5qcvf",
+      "title": "8.19",
+      "en": "8.19",
+      "years": "111",
+      "start": 111,
+      "bloc": "west",
+      "country": "11abgufao",
+      "desc": "唉杯具发3562auo",
+      "detail": {
+        "bg": "111111",
+        "story": "111111",
+        "people": "1111abcdefg",
+        "outcome": "花露水花露水花露水"
+      },
+      "user": {
+        "author": "haoran",
+        "time": 1755584581803
+      }
     }
   ],
   "changelog": [
+    {
+      "action": "add",
+      "author": "haoran",
+      "time": 1755584581803,
+      "summary": "新增事件《8.19》（111 · 11abgufao，阵营：西方阵营）",
+      "itemId": "u_dn2zse0mei5qcvf"
+    },
     {
       "action": "add",
       "author": "嘿嘿",
@@ -113,10 +140,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755574629459,
+  "lastUpdate": 1755584582805,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "haoran",
       "嘿嘿",
       "谭钢",
       "tg5号",
@@ -127,6 +155,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "嘿嘿"
+    "lastContributor": "haoran"
   }
 }
