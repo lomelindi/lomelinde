@@ -21,26 +21,6 @@
       }
     },
     {
-      "id": "u_7cpinvfmegxior5",
-      "title": "123",
-      "en": "123",
-      "years": "123",
-      "start": 123,
-      "bloc": "west",
-      "country": "123",
-      "desc": "123",
-      "detail": {
-        "bg": "123",
-        "story": "123",
-        "people": "123",
-        "outcome": "123"
-      },
-      "user": {
-        "author": "123",
-        "time": 1755510320849
-      }
-    },
-    {
       "id": "u_1ifkxddmegyzt82",
       "title": "33",
       "en": "33",
@@ -104,6 +84,13 @@
   "changelog": [
     {
       "action": "del",
+      "author": "tg1号",
+      "time": 1755573031675,
+      "summary": "删除事件《123》（123 · 123）",
+      "itemId": "u_7cpinvfmegxior5"
+    },
+    {
+      "action": "del",
       "author": "tg",
       "time": 1755572145645,
       "summary": "删除事件《è¶çº§ä¼å¤§è®¡å》（123 · 123）",
@@ -124,13 +111,14 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755572146150,
+  "lastUpdate": 1755573032178,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg1号",
       "tg",
       "test1"
     ],
-    "lastContributor": "tg"
+    "lastContributor": "tg1号"
   }
 }
