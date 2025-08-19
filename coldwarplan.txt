@@ -1,27 +1,13 @@
 {
-  "items": [
-    {
-      "id": "u_jrun2yamegruol2",
-      "title": "1",
-      "en": "1",
-      "years": "1",
-      "start": 1,
-      "bloc": "east",
-      "country": "1",
-      "desc": "1",
-      "detail": {
-        "bg": "1",
-        "story": "1",
-        "people": "1",
-        "outcome": "1"
-      },
-      "user": {
-        "author": "22222",
-        "time": 1755500802806
-      }
-    }
-  ],
+  "items": [],
   "changelog": [
+    {
+      "action": "del",
+      "author": "tg5号",
+      "time": 1755573080285,
+      "summary": "删除事件《1》（1 · 1）",
+      "itemId": "u_jrun2yamegruol2"
+    },
     {
       "action": "del",
       "author": "tg4号",
@@ -72,10 +58,11 @@
       "itemId": "u_a2c8yhdmehxz4co"
     }
   ],
-  "lastUpdate": 1755573060197,
+  "lastUpdate": 1755573080787,
   "meta": {
     "generator": "冷战奇葩计划·分阵营时间轴",
     "contributors": [
+      "tg5号",
       "tg4号",
       "tg3号",
       "tg2号",
@@ -83,6 +70,6 @@
       "tg",
       "test1"
     ],
-    "lastContributor": "tg4号"
+    "lastContributor": "tg5号"
   }
 }
